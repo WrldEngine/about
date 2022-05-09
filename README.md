@@ -17,6 +17,7 @@
 - Python🐍
 - Pascal
 - VisualBasic
-- JS(NOT professional)
-- C#(NOT professional)
+- PHP
+- JS
+- C#(50/50 Only for Unity)
 <br/>
